@@ -1,0 +1,3900 @@
+fileFormatVersion: 2
+guid: 97b4ae55c238c0440a858ddfbdbdd5a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2827595267144222992
+    second: mm1endingtiles_0
+  - first:
+      213: -5247552201648108667
+    second: mm1endingtiles_1
+  - first:
+      213: 6934405242994648945
+    second: mm1endingtiles_2
+  - first:
+      213: -7875428278277116110
+    second: mm1endingtiles_3
+  - first:
+      213: -7998455374428197000
+    second: mm1endingtiles_4
+  - first:
+      213: -3956805286693288371
+    second: mm1endingtiles_5
+  - first:
+      213: 7963544557761739271
+    second: mm1endingtiles_6
+  - first:
+      213: 5464577972524954678
+    second: mm1endingtiles_7
+  - first:
+      213: 4772898865560240635
+    second: mm1endingtiles_8
+  - first:
+      213: -3099337505616086666
+    second: mm1endingtiles_9
+  - first:
+      213: -2438997760882916386
+    second: mm1endingtiles_10
+  - first:
+      213: 5984520782490772373
+    second: mm1endingtiles_11
+  - first:
+      213: -6141402688139243736
+    second: mm1endingtiles_12
+  - first:
+      213: -3208721234222399678
+    second: mm1endingtiles_13
+  - first:
+      213: -4808906742741295537
+    second: mm1endingtiles_14
+  - first:
+      213: 5891962795559883552
+    second: mm1endingtiles_15
+  - first:
+      213: 7417542353558048445
+    second: mm1endingtiles_16
+  - first:
+      213: -6916205105563973091
+    second: mm1endingtiles_17
+  - first:
+      213: 7715783616515696287
+    second: mm1endingtiles_18
+  - first:
+      213: -6189695075598696970
+    second: mm1endingtiles_19
+  - first:
+      213: -4041074540934650921
+    second: mm1endingtiles_20
+  - first:
+      213: 5546085615736683436
+    second: mm1endingtiles_21
+  - first:
+      213: 3560273740679407768
+    second: mm1endingtiles_22
+  - first:
+      213: 8102991870564515680
+    second: mm1endingtiles_23
+  - first:
+      213: 2974890421625916524
+    second: mm1endingtiles_24
+  - first:
+      213: 822056974207087430
+    second: mm1endingtiles_25
+  - first:
+      213: -4063671698896635393
+    second: mm1endingtiles_26
+  - first:
+      213: 1690072938287195486
+    second: mm1endingtiles_27
+  - first:
+      213: 6486095889639667673
+    second: mm1endingtiles_28
+  - first:
+      213: -5679653024401921685
+    second: mm1endingtiles_29
+  - first:
+      213: -6572879078204088450
+    second: mm1endingtiles_30
+  - first:
+      213: 5138606745892229960
+    second: mm1endingtiles_31
+  - first:
+      213: 2427495847238132549
+    second: mm1endingtiles_32
+  - first:
+      213: -4166801389079787144
+    second: mm1endingtiles_33
+  - first:
+      213: -2669444024506130007
+    second: mm1endingtiles_34
+  - first:
+      213: -1822823593980326892
+    second: mm1endingtiles_35
+  - first:
+      213: 5139961637304157965
+    second: mm1endingtiles_36
+  - first:
+      213: -1682257904021011965
+    second: mm1endingtiles_37
+  - first:
+      213: 3784832053024881668
+    second: mm1endingtiles_38
+  - first:
+      213: 4704445369556480098
+    second: mm1endingtiles_39
+  - first:
+      213: 9185970463425744778
+    second: mm1endingtiles_40
+  - first:
+      213: -7372901797010673635
+    second: mm1endingtiles_41
+  - first:
+      213: 8110041814806768672
+    second: mm1endingtiles_42
+  - first:
+      213: 2846776118163620000
+    second: mm1endingtiles_43
+  - first:
+      213: -1063437778567487398
+    second: mm1endingtiles_44
+  - first:
+      213: -2616736582397903323
+    second: mm1endingtiles_45
+  - first:
+      213: 6759304766961252914
+    second: mm1endingtiles_46
+  - first:
+      213: -6261996535618610821
+    second: mm1endingtiles_47
+  - first:
+      213: -7757618063741852691
+    second: mm1endingtiles_48
+  - first:
+      213: 3427363116093153531
+    second: mm1endingtiles_49
+  - first:
+      213: -5156012206524538042
+    second: mm1endingtiles_50
+  - first:
+      213: -1882529121363470744
+    second: mm1endingtiles_51
+  - first:
+      213: 8387114986695377323
+    second: mm1endingtiles_52
+  - first:
+      213: 4555828573208269100
+    second: mm1endingtiles_53
+  - first:
+      213: 3265720715346100702
+    second: mm1endingtiles_54
+  - first:
+      213: 1975201649237073269
+    second: mm1endingtiles_55
+  - first:
+      213: 4683858823486246121
+    second: mm1endingtiles_56
+  - first:
+      213: 5785004022581134297
+    second: mm1endingtiles_57
+  - first:
+      213: -7728448437303594726
+    second: mm1endingtiles_58
+  - first:
+      213: 1316299980448257155
+    second: mm1endingtiles_59
+  - first:
+      213: -3139160996291169798
+    second: mm1endingtiles_60
+  - first:
+      213: -7800383587197326238
+    second: mm1endingtiles_61
+  - first:
+      213: -798691921458319288
+    second: mm1endingtiles_62
+  - first:
+      213: -4840868424552389848
+    second: mm1endingtiles_63
+  - first:
+      213: -3371262428005119816
+    second: mm1endingtiles_64
+  - first:
+      213: -654043412707015465
+    second: mm1endingtiles_65
+  - first:
+      213: -5310448213109246321
+    second: mm1endingtiles_66
+  - first:
+      213: -3446779686911259558
+    second: mm1endingtiles_67
+  - first:
+      213: -8455574963035831835
+    second: mm1endingtiles_68
+  - first:
+      213: 6314502423569650675
+    second: mm1endingtiles_69
+  - first:
+      213: 6713272131442627699
+    second: mm1endingtiles_70
+  - first:
+      213: -8978282172718559685
+    second: mm1endingtiles_71
+  - first:
+      213: -1987098686989402945
+    second: mm1endingtiles_72
+  - first:
+      213: -8239692268842207421
+    second: mm1endingtiles_73
+  - first:
+      213: 60210943176533038
+    second: mm1endingtiles_74
+  - first:
+      213: -1682025001209124191
+    second: mm1endingtiles_75
+  - first:
+      213: -8838022061465282132
+    second: mm1endingtiles_76
+  - first:
+      213: -2900095058376925960
+    second: mm1endingtiles_77
+  - first:
+      213: -8495750415560069344
+    second: mm1endingtiles_78
+  - first:
+      213: -7930148768545204850
+    second: mm1endingtiles_79
+  - first:
+      213: 5448995701509838607
+    second: mm1endingtiles_80
+  - first:
+      213: 405473084514842793
+    second: mm1endingtiles_81
+  - first:
+      213: -2557929470946279013
+    second: mm1endingtiles_82
+  - first:
+      213: 8661886067034914166
+    second: mm1endingtiles_83
+  - first:
+      213: -3713783216605959403
+    second: mm1endingtiles_84
+  - first:
+      213: -1745646319294255210
+    second: mm1endingtiles_85
+  - first:
+      213: -3553958074510985399
+    second: mm1endingtiles_86
+  - first:
+      213: -2913523789669940058
+    second: mm1endingtiles_87
+  - first:
+      213: -6261132187715406727
+    second: mm1endingtiles_88
+  - first:
+      213: 5157520535228990318
+    second: mm1endingtiles_89
+  - first:
+      213: -4577349110655474307
+    second: mm1endingtiles_90
+  - first:
+      213: -7217290202448097876
+    second: mm1endingtiles_91
+  - first:
+      213: -7907225669591628935
+    second: mm1endingtiles_92
+  - first:
+      213: 508844048786513731
+    second: mm1endingtiles_93
+  - first:
+      213: 6737565248626813900
+    second: mm1endingtiles_94
+  - first:
+      213: 8493848877463432579
+    second: mm1endingtiles_95
+  - first:
+      213: -6572053361601163941
+    second: mm1endingtiles_96
+  - first:
+      213: -2653074426339513759
+    second: mm1endingtiles_97
+  - first:
+      213: -7982488209475748239
+    second: mm1endingtiles_98
+  - first:
+      213: 3821519241437402120
+    second: mm1endingtiles_99
+  - first:
+      213: -8918985412281248134
+    second: mm1endingtiles_100
+  - first:
+      213: -3113685037362241040
+    second: mm1endingtiles_101
+  - first:
+      213: 986734970783399576
+    second: mm1endingtiles_102
+  - first:
+      213: 2693307584046463276
+    second: mm1endingtiles_103
+  - first:
+      213: 2625026690805151388
+    second: mm1endingtiles_104
+  - first:
+      213: -3042169364112282717
+    second: mm1endingtiles_105
+  - first:
+      213: -8564966160999215035
+    second: mm1endingtiles_106
+  - first:
+      213: 3617612872402697718
+    second: mm1endingtiles_107
+  - first:
+      213: -4385444368138843131
+    second: mm1endingtiles_108
+  - first:
+      213: 8925129798210496539
+    second: mm1endingtiles_109
+  - first:
+      213: 4867869695123466003
+    second: mm1endingtiles_110
+  - first:
+      213: -1627150396645054960
+    second: mm1endingtiles_111
+  - first:
+      213: -3939973985192121106
+    second: mm1endingtiles_112
+  - first:
+      213: -7852716243934289718
+    second: mm1endingtiles_113
+  - first:
+      213: 1024179574530723813
+    second: mm1endingtiles_114
+  - first:
+      213: 3280460576625580100
+    second: mm1endingtiles_115
+  - first:
+      213: 6638932404396890874
+    second: mm1endingtiles_116
+  - first:
+      213: 6860059547916316667
+    second: mm1endingtiles_117
+  - first:
+      213: -2267996211179893489
+    second: mm1endingtiles_118
+  - first:
+      213: 1592808329356060182
+    second: mm1endingtiles_119
+  - first:
+      213: -900482198810540558
+    second: mm1endingtiles_120
+  - first:
+      213: -3768276470235447066
+    second: mm1endingtiles_121
+  - first:
+      213: 4229041484674416334
+    second: mm1endingtiles_122
+  - first:
+      213: 41198966351579710
+    second: mm1endingtiles_123
+  - first:
+      213: -7476230621394614387
+    second: mm1endingtiles_124
+  - first:
+      213: 1127551113920604768
+    second: mm1endingtiles_125
+  - first:
+      213: 1330195312259947104
+    second: mm1endingtiles_126
+  - first:
+      213: 367423777022939298
+    second: mm1endingtiles_127
+  - first:
+      213: 307368516784069720
+    second: mm1endingtiles_128
+  - first:
+      213: -1999217858649540112
+    second: mm1endingtiles_129
+  - first:
+      213: 1959642838034392460
+    second: mm1endingtiles_130
+  - first:
+      213: 8395180862421139653
+    second: mm1endingtiles_131
+  - first:
+      213: -3274668238759493328
+    second: mm1endingtiles_132
+  - first:
+      213: 8793866977587333930
+    second: mm1endingtiles_133
+  - first:
+      213: -126111994800926214
+    second: mm1endingtiles_134
+  - first:
+      213: -7734195710157470285
+    second: mm1endingtiles_135
+  - first:
+      213: 1932126603974272200
+    second: mm1endingtiles_136
+  - first:
+      213: -1024486069375328871
+    second: mm1endingtiles_137
+  - first:
+      213: -296514646425598233
+    second: mm1endingtiles_138
+  - first:
+      213: -232370606153382605
+    second: mm1endingtiles_139
+  - first:
+      213: -5556606306780430190
+    second: mm1endingtiles_140
+  - first:
+      213: -7543060843846891948
+    second: mm1endingtiles_141
+  - first:
+      213: 4315786309901810171
+    second: mm1endingtiles_142
+  - first:
+      213: 8002587404355052339
+    second: mm1endingtiles_143
+  - first:
+      213: 5318328288237933546
+    second: mm1endingtiles_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mm1endingtiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01905ba0ae2ad3720800000000000000
+      internalID: 2827595267144222992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b02784313fc27b0800000000000000
+      internalID: -5247552201648108667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1776d4514d4fb3060800000000000000
+      internalID: 6934405242994648945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 337
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fe93be4bbd4b290800000000000000
+      internalID: -7875428278277116110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fa46fe637cff090800000000000000
+      internalID: -7998455374428197000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 337
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4642494e8a9619c0800000000000000
+      internalID: -3956805286693288371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a32662591348e60800000000000000
+      internalID: 7963544557761739271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 337
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63436c3a6b416db40800000000000000
+      internalID: 5464577972524954678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf14596fa3ebc3240800000000000000
+      internalID: 4772898865560240635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 337
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67935baa5f0fcf4d0800000000000000
+      internalID: -3099337505616086666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c9967570f62ed0800000000000000
+      internalID: -2438997760882916386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 337
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5932e4fb1f94d0350800000000000000
+      internalID: 5984520782490772373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc4de2bca55caa0800000000000000
+      internalID: -6141402688139243736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 337
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fbbeab9055873d0800000000000000
+      internalID: -3208721234222399678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e9ce0dbc4534db0800000000000000
+      internalID: -4808906742741295537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 337
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0231a2312f474c150800000000000000
+      internalID: 5891962795559883552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe0e32887760f660800000000000000
+      internalID: 7417542353558048445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1acd11a914b400a0800000000000000
+      internalID: -6916205105563973091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96623ab158f31b60800000000000000
+      internalID: 7715783616515696287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd74f68f19c91aa0800000000000000
+      internalID: -6189695075598696970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 320
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d327b49d183be7c0800000000000000
+      internalID: -4041074540934650921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab73ebab77a7fc40800000000000000
+      internalID: 5546085615736683436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 320
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898e850aa12a86130800000000000000
+      internalID: 3560273740679407768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f30eebc2c937070800000000000000
+      internalID: 8102991870564515680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 320
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c89baa31fe84920800000000000000
+      internalID: 2974890421625916524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643febc6678886b00800000000000000
+      internalID: 822056974207087430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9357fbe10fa97c0800000000000000
+      internalID: -4063671698896635393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55eb1b0268547710800000000000000
+      internalID: 1690072938287195486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 320
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7f719c8dd330a50800000000000000
+      internalID: 6486095889639667673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ec099aa1dd21b0800000000000000
+      internalID: -5679653024401921685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 320
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f5c009d4178c4a0800000000000000
+      internalID: -6572879078204088450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84315512c9fff4740800000000000000
+      internalID: 5138606745892229960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5436d549c9230b120800000000000000
+      internalID: 2427495847238132549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8798b4a963c8c26c0800000000000000
+      internalID: -4166801389079787144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 286
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1e5839dca34fad0800000000000000
+      internalID: -2669444024506130007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c0a98599704b6e0800000000000000
+      internalID: -1822823593980326892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 286
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0746ae50efc45740800000000000000
+      internalID: 5139961637304157965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3020c3a695b67a8e0800000000000000
+      internalID: -1682257904021011965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 286
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c7f0703bc668430800000000000000
+      internalID: 3784832053024881668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26035ad632c894140800000000000000
+      internalID: 4704445369556480098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 286
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fc8b5977f1b7f70800000000000000
+      internalID: 9185970463425744778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10f65101e03ea990800000000000000
+      internalID: -7372901797010673635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 286
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2f1dcf08ac8070800000000000000
+      internalID: 8110041814806768672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0453eebc7c18720800000000000000
+      internalID: 2846776118163620000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 286
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5021c789f8ed31f0800000000000000
+      internalID: -1063437778567487398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e376f31fb7fabd0800000000000000
+      internalID: -2616736582397903323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 286
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a745b8fdfddcd50800000000000000
+      internalID: 6759304766961252914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79d9bd045be819a0800000000000000
+      internalID: -6261996535618610821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3638ff877675490800000000000000
+      internalID: -7757618063741852691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0220b5890709f20800000000000000
+      internalID: 3427363116093153531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 252
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643e684473a2278b0800000000000000
+      internalID: -5156012206524538042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8665dc9fcb9efd5e0800000000000000
+      internalID: -1882529121363470744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 252
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba14550c4a4056470800000000000000
+      internalID: 8387114986695377323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2157a313fd893f30800000000000000
+      internalID: 4555828573208269100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_54
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1c6d520bb225d20800000000000000
+      internalID: 3265720715346100702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_55
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d9a865f63596b10800000000000000
+      internalID: 1975201649237073269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_56
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec0af7a8c8600140800000000000000
+      internalID: 4683858823486246121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_57
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3872e1286784050800000000000000
+      internalID: 5785004022581134297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_58
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 235
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11b895e7190fb490800000000000000
+      internalID: -7728448437303594726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384d870bbdf644210800000000000000
+      internalID: 1316299980448257155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1bd43b4b57f64d0800000000000000
+      internalID: -3139160996291169798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 218
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ce055a4787fb390800000000000000
+      internalID: -7800383587197326238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_62
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840b088dde97ae4f0800000000000000
+      internalID: -798691921458319288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 218
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823662ed0d7c1dcb0800000000000000
+      internalID: -4840868424552389848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b84226feaed631d0800000000000000
+      internalID: -3371262428005119816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 218
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d40aed3bfe5ce6f0800000000000000
+      internalID: -654043412707015465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_66
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86f3837c7f7d46b0800000000000000
+      internalID: -5310448213109246321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 218
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4f96f2249a20d0800000000000000
+      internalID: -3446779686911259558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_68
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 218
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e10094ee53c7aa80800000000000000
+      internalID: -8455574963035831835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 218
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f35632af7e91a750800000000000000
+      internalID: 6314502423569650675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_70
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 218
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374da236f655a2d50800000000000000
+      internalID: 6713272131442627699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e43e1deebb66380800000000000000
+      internalID: -8978282172718559685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcf954b5486c64e0800000000000000
+      internalID: -1987098686989402945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347b029898bb6ad80800000000000000
+      internalID: -8239692268842207421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24e0a7a889e5d000800000000000000
+      internalID: 60210943176533038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_75
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaaa935c2f38a8e0800000000000000
+      internalID: -1682025001209124191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9db4dc2c9095580800000000000000
+      internalID: -8838022061465282132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcd396e8eac0c7d0800000000000000
+      internalID: -2900095058376925960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_78
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f2a2c6208091a80800000000000000
+      internalID: -8495750415560069344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e859cd2f5b372f190800000000000000
+      internalID: -7930148768545204850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07df1378b8be9b40800000000000000
+      internalID: 5448995701509838607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a83d704f9780a500800000000000000
+      internalID: 405473084514842793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_82
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b918ebbd2b8608cd0800000000000000
+      internalID: -2557929470946279013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d758e3c73353870800000000000000
+      internalID: 8661886067034914166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_84
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51be46947ddf57cc0800000000000000
+      internalID: -3713783216605959403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_85
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f6ff2ebe736c7e0800000000000000
+      internalID: -1745646319294255210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_86
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 167
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947342ef5fdcdaec0800000000000000
+      internalID: -3553958074510985399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4c210cc851197d0800000000000000
+      internalID: -2913523789669940058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974757bb27dfb19a0800000000000000
+      internalID: -6261132187715406727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_89
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e634b10e991339740800000000000000
+      internalID: 5157520535228990318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_90
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d752e665c3df970c0800000000000000
+      internalID: -4577349110655474307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_91
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad8c2abcc807db90800000000000000
+      internalID: -7217290202448097876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9730425d524e34290800000000000000
+      internalID: -7907225669591628935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fddf567f6cf0700800000000000000
+      internalID: 508844048786513731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_94
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbea6f75e3a08d50800000000000000
+      internalID: 6737565248626813900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_95
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dee0d3d8630e570800000000000000
+      internalID: 8493848877463432579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_96
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dc9d0b9406bc4a0800000000000000
+      internalID: -6572053361601163941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_97
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a2c57add26e2bd0800000000000000
+      internalID: -2653074426339513759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_98
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e347a3441883190800000000000000
+      internalID: -7982488209475748239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8045238b083c80530800000000000000
+      internalID: 3821519241437402120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76d518b506693480800000000000000
+      internalID: -8918985412281248134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_101
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1239d94f7f9c4d0800000000000000
+      internalID: -3113685037362241040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_102
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89efffc5a3691bd00800000000000000
+      internalID: 986734970783399576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2974f95afc806520800000000000000
+      internalID: 2693307584046463276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_104
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c963c570ed7fd6420800000000000000
+      internalID: 2625026690805151388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_105
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abe289d41b08c5d0800000000000000
+      internalID: -3042169364112282717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_106
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540966cd7a0232980800000000000000
+      internalID: -8564966160999215035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_107
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd71729db7543230800000000000000
+      internalID: 3617612872402697718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_108
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cc8de0595c323c0800000000000000
+      internalID: -4385444368138843131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18279c934e6cdb70800000000000000
+      internalID: 8925129798210496539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_110
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31729b652b52e8340800000000000000
+      internalID: 4867869695123466003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_111
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016e5d3d5533b69e0800000000000000
+      internalID: -1627150396645054960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_112
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eece75c09866259c0800000000000000
+      internalID: -3939973985192121106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_113
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac06b5e7e2c850390800000000000000
+      internalID: -7852716243934289718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_114
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef4d1e85ed963e00800000000000000
+      internalID: 1024179574530723813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_115
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 116
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448d0798389868d20800000000000000
+      internalID: 3280460576625580100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_116
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa18e3e8d9322c50800000000000000
+      internalID: 6638932404396890874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff249b00d3d33f50800000000000000
+      internalID: 6860059547916316667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dc0b856757680e0800000000000000
+      internalID: -2267996211179893489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6162d8a8cbaca1610800000000000000
+      internalID: 1592808329356060182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5c55d0638d083f0800000000000000
+      internalID: -900482198810540558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_121
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e04728f38464bbc0800000000000000
+      internalID: -3768276470235447066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_122
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceb86ae2d290ba30800000000000000
+      internalID: 4229041484674416334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_123
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3acf7add3e529000800000000000000
+      internalID: 41198966351579710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_124
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8740e05cd71f3890800000000000000
+      internalID: -7476230621394614387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_125
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a655b93cdd5af00800000000000000
+      internalID: 1127551113920604768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_126
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ad42db69dc57210800000000000000
+      internalID: 1330195312259947104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_127
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a01c7f7af9591500800000000000000
+      internalID: 367423777022939298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_128
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c9d0a990ef34400800000000000000
+      internalID: 307368516784069720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_129
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9b39a23f95144e0800000000000000
+      internalID: -1999217858649540112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_130
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85adaf47cc023b10800000000000000
+      internalID: 1959642838034392460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_131
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c005c9c38ca18470800000000000000
+      internalID: 8395180862421139653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_132
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0318c77369a0e82d0800000000000000
+      internalID: -3274668238759493328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_133
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b81299c671a0a70800000000000000
+      internalID: 8793866977587333930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_134
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af199f31fc5ff3ef0800000000000000
+      internalID: -126111994800926214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5c6b8aafd9aa490800000000000000
+      internalID: -7734195710157470285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_136
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4e7f2d8ea40da10800000000000000
+      internalID: 1932126603974272200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_137
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d1c8d095b48c1f0800000000000000
+      internalID: -1024486069375328871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_138
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e60a15008192ebf0800000000000000
+      internalID: -296514646425598233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_139
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3354cf33a2476ccf0800000000000000
+      internalID: -232370606153382605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_140
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29048af0108f2e2b0800000000000000
+      internalID: -5556606306780430190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_141
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456095b902aa15790800000000000000
+      internalID: -7543060843846891948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_142
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9f03868c0c4eb30800000000000000
+      internalID: 4315786309901810171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_143
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333299048d6ee0f60800000000000000
+      internalID: 8002587404355052339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1endingtiles_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae35553866f7ec940800000000000000
+      internalID: 5318328288237933546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mm1endingtiles_0: 2827595267144222992
+      mm1endingtiles_1: -5247552201648108667
+      mm1endingtiles_10: -2438997760882916386
+      mm1endingtiles_100: -8918985412281248134
+      mm1endingtiles_101: -3113685037362241040
+      mm1endingtiles_102: 986734970783399576
+      mm1endingtiles_103: 2693307584046463276
+      mm1endingtiles_104: 2625026690805151388
+      mm1endingtiles_105: -3042169364112282717
+      mm1endingtiles_106: -8564966160999215035
+      mm1endingtiles_107: 3617612872402697718
+      mm1endingtiles_108: -4385444368138843131
+      mm1endingtiles_109: 8925129798210496539
+      mm1endingtiles_11: 5984520782490772373
+      mm1endingtiles_110: 4867869695123466003
+      mm1endingtiles_111: -1627150396645054960
+      mm1endingtiles_112: -3939973985192121106
+      mm1endingtiles_113: -7852716243934289718
+      mm1endingtiles_114: 1024179574530723813
+      mm1endingtiles_115: 3280460576625580100
+      mm1endingtiles_116: 6638932404396890874
+      mm1endingtiles_117: 6860059547916316667
+      mm1endingtiles_118: -2267996211179893489
+      mm1endingtiles_119: 1592808329356060182
+      mm1endingtiles_12: -6141402688139243736
+      mm1endingtiles_120: -900482198810540558
+      mm1endingtiles_121: -3768276470235447066
+      mm1endingtiles_122: 4229041484674416334
+      mm1endingtiles_123: 41198966351579710
+      mm1endingtiles_124: -7476230621394614387
+      mm1endingtiles_125: 1127551113920604768
+      mm1endingtiles_126: 1330195312259947104
+      mm1endingtiles_127: 367423777022939298
+      mm1endingtiles_128: 307368516784069720
+      mm1endingtiles_129: -1999217858649540112
+      mm1endingtiles_13: -3208721234222399678
+      mm1endingtiles_130: 1959642838034392460
+      mm1endingtiles_131: 8395180862421139653
+      mm1endingtiles_132: -3274668238759493328
+      mm1endingtiles_133: 8793866977587333930
+      mm1endingtiles_134: -126111994800926214
+      mm1endingtiles_135: -7734195710157470285
+      mm1endingtiles_136: 1932126603974272200
+      mm1endingtiles_137: -1024486069375328871
+      mm1endingtiles_138: -296514646425598233
+      mm1endingtiles_139: -232370606153382605
+      mm1endingtiles_14: -4808906742741295537
+      mm1endingtiles_140: -5556606306780430190
+      mm1endingtiles_141: -7543060843846891948
+      mm1endingtiles_142: 4315786309901810171
+      mm1endingtiles_143: 8002587404355052339
+      mm1endingtiles_144: 5318328288237933546
+      mm1endingtiles_15: 5891962795559883552
+      mm1endingtiles_16: 7417542353558048445
+      mm1endingtiles_17: -6916205105563973091
+      mm1endingtiles_18: 7715783616515696287
+      mm1endingtiles_19: -6189695075598696970
+      mm1endingtiles_2: 6934405242994648945
+      mm1endingtiles_20: -4041074540934650921
+      mm1endingtiles_21: 5546085615736683436
+      mm1endingtiles_22: 3560273740679407768
+      mm1endingtiles_23: 8102991870564515680
+      mm1endingtiles_24: 2974890421625916524
+      mm1endingtiles_25: 822056974207087430
+      mm1endingtiles_26: -4063671698896635393
+      mm1endingtiles_27: 1690072938287195486
+      mm1endingtiles_28: 6486095889639667673
+      mm1endingtiles_29: -5679653024401921685
+      mm1endingtiles_3: -7875428278277116110
+      mm1endingtiles_30: -6572879078204088450
+      mm1endingtiles_31: 5138606745892229960
+      mm1endingtiles_32: 2427495847238132549
+      mm1endingtiles_33: -4166801389079787144
+      mm1endingtiles_34: -2669444024506130007
+      mm1endingtiles_35: -1822823593980326892
+      mm1endingtiles_36: 5139961637304157965
+      mm1endingtiles_37: -1682257904021011965
+      mm1endingtiles_38: 3784832053024881668
+      mm1endingtiles_39: 4704445369556480098
+      mm1endingtiles_4: -7998455374428197000
+      mm1endingtiles_40: 9185970463425744778
+      mm1endingtiles_41: -7372901797010673635
+      mm1endingtiles_42: 8110041814806768672
+      mm1endingtiles_43: 2846776118163620000
+      mm1endingtiles_44: -1063437778567487398
+      mm1endingtiles_45: -2616736582397903323
+      mm1endingtiles_46: 6759304766961252914
+      mm1endingtiles_47: -6261996535618610821
+      mm1endingtiles_48: -7757618063741852691
+      mm1endingtiles_49: 3427363116093153531
+      mm1endingtiles_5: -3956805286693288371
+      mm1endingtiles_50: -5156012206524538042
+      mm1endingtiles_51: -1882529121363470744
+      mm1endingtiles_52: 8387114986695377323
+      mm1endingtiles_53: 4555828573208269100
+      mm1endingtiles_54: 3265720715346100702
+      mm1endingtiles_55: 1975201649237073269
+      mm1endingtiles_56: 4683858823486246121
+      mm1endingtiles_57: 5785004022581134297
+      mm1endingtiles_58: -7728448437303594726
+      mm1endingtiles_59: 1316299980448257155
+      mm1endingtiles_6: 7963544557761739271
+      mm1endingtiles_60: -3139160996291169798
+      mm1endingtiles_61: -7800383587197326238
+      mm1endingtiles_62: -798691921458319288
+      mm1endingtiles_63: -4840868424552389848
+      mm1endingtiles_64: -3371262428005119816
+      mm1endingtiles_65: -654043412707015465
+      mm1endingtiles_66: -5310448213109246321
+      mm1endingtiles_67: -3446779686911259558
+      mm1endingtiles_68: -8455574963035831835
+      mm1endingtiles_69: 6314502423569650675
+      mm1endingtiles_7: 5464577972524954678
+      mm1endingtiles_70: 6713272131442627699
+      mm1endingtiles_71: -8978282172718559685
+      mm1endingtiles_72: -1987098686989402945
+      mm1endingtiles_73: -8239692268842207421
+      mm1endingtiles_74: 60210943176533038
+      mm1endingtiles_75: -1682025001209124191
+      mm1endingtiles_76: -8838022061465282132
+      mm1endingtiles_77: -2900095058376925960
+      mm1endingtiles_78: -8495750415560069344
+      mm1endingtiles_79: -7930148768545204850
+      mm1endingtiles_8: 4772898865560240635
+      mm1endingtiles_80: 5448995701509838607
+      mm1endingtiles_81: 405473084514842793
+      mm1endingtiles_82: -2557929470946279013
+      mm1endingtiles_83: 8661886067034914166
+      mm1endingtiles_84: -3713783216605959403
+      mm1endingtiles_85: -1745646319294255210
+      mm1endingtiles_86: -3553958074510985399
+      mm1endingtiles_87: -2913523789669940058
+      mm1endingtiles_88: -6261132187715406727
+      mm1endingtiles_89: 5157520535228990318
+      mm1endingtiles_9: -3099337505616086666
+      mm1endingtiles_90: -4577349110655474307
+      mm1endingtiles_91: -7217290202448097876
+      mm1endingtiles_92: -7907225669591628935
+      mm1endingtiles_93: 508844048786513731
+      mm1endingtiles_94: 6737565248626813900
+      mm1endingtiles_95: 8493848877463432579
+      mm1endingtiles_96: -6572053361601163941
+      mm1endingtiles_97: -2653074426339513759
+      mm1endingtiles_98: -7982488209475748239
+      mm1endingtiles_99: 3821519241437402120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

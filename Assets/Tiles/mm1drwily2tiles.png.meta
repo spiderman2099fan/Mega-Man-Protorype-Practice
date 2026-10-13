@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: dc63afcaadc7b1e4db6313a41c202502
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -758565216464859987
+    second: mm1drwily2tiles_0
+  - first:
+      213: 1096909148217315689
+    second: mm1drwily2tiles_1
+  - first:
+      213: -621914023832636428
+    second: mm1drwily2tiles_2
+  - first:
+      213: 7421585560417621302
+    second: mm1drwily2tiles_3
+  - first:
+      213: -3813144062059728689
+    second: mm1drwily2tiles_4
+  - first:
+      213: -8957676384647090888
+    second: mm1drwily2tiles_5
+  - first:
+      213: -3204717252352575878
+    second: mm1drwily2tiles_6
+  - first:
+      213: 7769484113217289780
+    second: mm1drwily2tiles_7
+  - first:
+      213: -1778779303173675168
+    second: mm1drwily2tiles_8
+  - first:
+      213: 8611601012288192092
+    second: mm1drwily2tiles_9
+  - first:
+      213: 5505321551019253093
+    second: mm1drwily2tiles_10
+  - first:
+      213: -7784962749094749883
+    second: mm1drwily2tiles_11
+  - first:
+      213: -5279283421575950345
+    second: mm1drwily2tiles_12
+  - first:
+      213: 4572173786534167435
+    second: mm1drwily2tiles_13
+  - first:
+      213: -4345736201476224762
+    second: mm1drwily2tiles_14
+  - first:
+      213: 2283980545622846548
+    second: mm1drwily2tiles_15
+  - first:
+      213: 4645280584798961380
+    second: mm1drwily2tiles_16
+  - first:
+      213: -6539157821341685071
+    second: mm1drwily2tiles_17
+  - first:
+      213: 2793059879923120328
+    second: mm1drwily2tiles_18
+  - first:
+      213: 1380560297363613732
+    second: mm1drwily2tiles_19
+  - first:
+      213: 6861166635505299299
+    second: mm1drwily2tiles_20
+  - first:
+      213: -8223193723154998260
+    second: mm1drwily2tiles_21
+  - first:
+      213: 4908968076783163161
+    second: mm1drwily2tiles_22
+  - first:
+      213: -8210658023847703299
+    second: mm1drwily2tiles_23
+  - first:
+      213: -1671541486696483568
+    second: mm1drwily2tiles_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mm1drwily2tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac05a564f80975f0800000000000000
+      internalID: -758565216464859987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9619e520f01093f00800000000000000
+      internalID: 1096909148217315689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f33f988d748e57f0800000000000000
+      internalID: -621914023832636428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6355cd6feb4cef660800000000000000
+      internalID: 7421585560417621302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc03a8fadadf41bc0800000000000000
+      internalID: -3813144062059728689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d6438b9c0ffa380800000000000000
+      internalID: -8957676384647090888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7675f763ae8683d0800000000000000
+      internalID: -3204717252352575878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e7b50f2a0c2db60800000000000000
+      internalID: 7769484113217289780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067248ce5a18057e0800000000000000
+      internalID: -1778779303173675168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ef4d49e7d828770800000000000000
+      internalID: 8611601012288192092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d1ece38c4d66c40800000000000000
+      internalID: 5505321551019253093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5491f8e40a146f390800000000000000
+      internalID: -7784962749094749883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff4b5ce2b73cb6b0800000000000000
+      internalID: -5279283421575950345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83c8bd95df937f30800000000000000
+      internalID: 4572173786534167435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609447f03f7d0b3c0800000000000000
+      internalID: -4345736201476224762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ca0c7843452bf10800000000000000
+      internalID: 2283980545622846548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eef5f2841a577040800000000000000
+      internalID: 4645280584798961380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba26b08b9e3045a0800000000000000
+      internalID: -6539157821341685071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8763b9921f2c620800000000000000
+      internalID: 2793059879923120328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428ad53a64cb82310800000000000000
+      internalID: 1380560297363613732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f2e06f3b2c73f50800000000000000
+      internalID: 6861166635505299299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cdf1c80e851ed80800000000000000
+      internalID: -8223193723154998260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917946ef478202440800000000000000
+      internalID: 4908968076783163161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcc85c7702ed0e80800000000000000
+      internalID: -8210658023847703299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm1drwily2tiles_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015b022cfdd7dc8e0800000000000000
+      internalID: -1671541486696483568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mm1drwily2tiles_0: -758565216464859987
+      mm1drwily2tiles_1: 1096909148217315689
+      mm1drwily2tiles_10: 5505321551019253093
+      mm1drwily2tiles_11: -7784962749094749883
+      mm1drwily2tiles_12: -5279283421575950345
+      mm1drwily2tiles_13: 4572173786534167435
+      mm1drwily2tiles_14: -4345736201476224762
+      mm1drwily2tiles_15: 2283980545622846548
+      mm1drwily2tiles_16: 4645280584798961380
+      mm1drwily2tiles_17: -6539157821341685071
+      mm1drwily2tiles_18: 2793059879923120328
+      mm1drwily2tiles_19: 1380560297363613732
+      mm1drwily2tiles_2: -621914023832636428
+      mm1drwily2tiles_20: 6861166635505299299
+      mm1drwily2tiles_21: -8223193723154998260
+      mm1drwily2tiles_22: 4908968076783163161
+      mm1drwily2tiles_23: -8210658023847703299
+      mm1drwily2tiles_24: -1671541486696483568
+      mm1drwily2tiles_3: 7421585560417621302
+      mm1drwily2tiles_4: -3813144062059728689
+      mm1drwily2tiles_5: -8957676384647090888
+      mm1drwily2tiles_6: -3204717252352575878
+      mm1drwily2tiles_7: 7769484113217289780
+      mm1drwily2tiles_8: -1778779303173675168
+      mm1drwily2tiles_9: 8611601012288192092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
